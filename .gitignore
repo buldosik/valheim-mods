@@ -1,0 +1,15 @@
+# Build output from every mod project.
+**/bin/
+**/obj/
+**/dist/
+
+# Local IDE files.
+*.user
+*.suo
+.vs/
+
+# Local game/mod reference assemblies.
+**/lib/*.dll
+
+# Release/package binaries copied during local testing.
+Dll/*.dll

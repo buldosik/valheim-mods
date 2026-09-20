@@ -1,0 +1,10 @@
+{
+  "name": "XPortalSharedMapPins",
+  "version_number": "0.2.0",
+  "website_url": "",
+  "description": "Keeps shared XPortalNetworks portals visible as map pins for every player with the mod installed.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2350",
+    "Vapok-XPortalNetworks-2.0.8"
+  ]
+}
